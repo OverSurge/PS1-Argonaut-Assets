@@ -4,6 +4,8 @@
 
 > Documentation & scripts: [PS1-BRender-Reverse](https://github.com/OverSurge/PS1-BRender-Reverse).
 
+I also upload the assets on this Drive : https://drive.google.com/drive/folders/1EuWQUAjVnBeOHMQkKf9IjBAiNgYil8CG
+
 #### Currently extracted assets
 - Croc 2: Textures (Nearly 100% accurate)
 - Croc 2 Demo: Textures (Nearly 100% accurate)
