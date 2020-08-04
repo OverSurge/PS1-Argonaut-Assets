@@ -10,7 +10,7 @@ I also upload the assets on this Drive : https://drive.google.com/drive/folders/
 - Croc 2: Textures (Nearly 100% accurate)
 - Croc 2 Demo: Textures (Nearly 100% accurate)
 - Croc 2 Demo Dummy WADs: Textures (**INCOMPLETE**: some textures aren't extracted, and a lot of textures are 1 pixel too large. About 75% accurate)
-- Harry Potter 1 PS1: Textures (Nearly 100% accurate), 3D models (70%+ accurate), audio (Nearly 100% accurate) (EN, FR, DE, ES, JP)
-- Harry Potter 2 PS1: Textures (Nearly 100% accurate), 3D models (70%+ accurate), audio (Nearly 100% accurate) (EN, FR, DE)
+- Harry Potter 1 PS1: Textures (Nearly 100% accurate), 3D models (70%+ accurate), audio (Nearly 100% accurate) (DE, EN, ES, FR, JP)
+- Harry Potter 2 PS1: Textures (Nearly 100% accurate), 3D models (70%+ accurate), audio (Nearly 100% accurate) (DE, EN, ES, FR)
 
 > 3D models and animations not yet exported
