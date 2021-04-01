@@ -6,8 +6,6 @@
 
 I also upload the assets on this Drive : https://drive.google.com/drive/folders/1EuWQUAjVnBeOHMQkKf9IjBAiNgYil8CG
 
-The levels are too large for GitHub, you can find them on the Drive for now (I will have to upload them elsewhere soon as the Drive is nearly full).
-
 #### Currently extracted assets
 - Croc 2: Textures (Nearly 100% accurate)
 - Croc 2 Demo: Textures (Nearly 100% accurate)
